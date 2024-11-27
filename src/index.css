@@ -18,3 +18,34 @@ ol {
 img {
 	max-width: 100%;
 }
+
+/* LAYOUT */
+.container {
+	max-width: 1024px;
+	padding: 0 50px;
+	margin: 0 auto;
+}
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	row-gap: 20px;
+	margin: 0 5px;
+}
+
+.row > * {
+	padding: 0 5px;
+	width: 100%;
+}
+
+.col-12 {
+	width: 100%;
+}
+
+/* layout */
+
+
+/* header */
+.heading-center{
+  text-align: center;
+}
