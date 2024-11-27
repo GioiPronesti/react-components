@@ -1,5 +1,5 @@
 
-
+import Button from "../Button"
 export default function Main() {
 
     return (
@@ -17,6 +17,7 @@ export default function Main() {
                                 <h2 className="card-title">Titolo del post</h2>
                                 <p className="card-description">Lorem ipsum dolor sit, amet  consectetur adipisicing elit. Iure fuga non itaque ipsum, eaque consectetur!
                                 </p>
+                                <Button></Button>
                             </div>
                             
                         </div>
