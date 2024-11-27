@@ -5,6 +5,10 @@
 	box-sizing: border-box;
 }
 
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+
 a {
 	text-decoration: none;
 	color: currentColor;
@@ -84,13 +88,24 @@ img {
 /* card-content*/
  
 .card-content{
-  padding: 15px;
+  padding: 12px;
 }
 
 .card-title{
   margin-bottom: 10px;
 }
 
+.btn{
+  margin-top: 10px;
+  border:none;
+  display: inline-block;
+  background-color: rgb(228, 181, 13);
+  padding: 10px 15px;
+  color: white;
+  text-transform: uppercase;
+  line-height: 1rem;
+  font-size: 0,75rem;
+}
 
 /* footer */
 
