@@ -7,9 +7,9 @@ function App() {
 
   return (
     <>
-      <PageHeader />
-      <PageMain></PageMain>
-      <PageFooter></PageFooter>
+      <PageHeader/>
+      <PageMain/>
+      <PageFooter/>
 
       {/*
       <div className="container">
