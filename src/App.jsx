@@ -1,12 +1,15 @@
 
 import PageHeader from "./components/Header/Header.jsx"
-
+import PageMain from "./components/Main/Main.jsx"
+import PageFooter from "./components/Footer/Footer.jsx"
 function App() {
   
 
   return (
     <>
       <PageHeader />
+      <PageMain></PageMain>
+      <PageFooter></PageFooter>
 
       {/*
       <div className="container">
