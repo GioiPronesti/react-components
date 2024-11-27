@@ -50,6 +50,27 @@ img {
   text-align: center;
 }
 
+/*Main*/
+
+
+.card{
+  border: 1px solid rgb(54, 54, 54);
+}
+
+
+.card-image{
+  background-color: rgb(166, 166, 166);
+  text-align: center;
+}
+
+.card-post{
+  font-size: 2rem;
+}
+
+
+
+/* card */
+
 /* footer */
 
 .footer-center{
@@ -59,3 +80,4 @@ img {
   padding: 30px 50px;
   margin-top: 50px;
 }
+
